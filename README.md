@@ -3,3 +3,7 @@ This is a repository that contains test questions for the udemy course "The comp
 
 ## Download tests
 git clone git@github.com:ksaurabh/test-complete-javascript-course.git
+
+## Repository for course material
+https://github.com/jonasschmedtmann/complete-javascript-course
+
